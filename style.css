@@ -55,7 +55,7 @@ body{
 
 }
 
-/* normal container */
+/*normal container*/
 .container{
   width: min(1200px, 92%);
   margin: 0 auto;
@@ -913,5 +913,6 @@ body{
     margin-right: auto;
   }
 }
+
 
 
