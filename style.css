@@ -61,7 +61,7 @@ body{
   margin: 0 auto;
 }
 
-/* wider container for full-width layouts */
+/*wider container for full-width layouts*/
 .container-wide{
   width: min(1400px, 96%);
   margin: 0 auto;
@@ -913,4 +913,5 @@ body{
     margin-right: auto;
   }
 }
+
 
